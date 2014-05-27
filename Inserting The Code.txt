@@ -1,0 +1,17 @@
+For Website Builders
+=================
+1. Drag the Embed Tool where you want the code
+2. Paste the code
+3. Publish & Done!
+_________________
+
+For HTML
+=================
+1. Copy the code
+2. Paste the code anywhere under <body> and </body> so the code will appear on a specific section or Insert it under your files Name.
+
+Eg. <h2> Notepad.exe Download </h2>
+<Script goes here>
+
+3. Save
+4. Publish
