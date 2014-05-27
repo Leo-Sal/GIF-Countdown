@@ -18,3 +18,5 @@ Compatibility:
 This Script is compatible with HTML embedding (Eg. Weebly, Wix etc...)
 
 This script is not compatible with Wordpress.com
+
+Project Website: http://gifcntdwn.strikingly.com/
